@@ -1,0 +1,29 @@
+# Nmap 7.95 scan initiated Mon Jun 23 15:09:32 2025 as: /usr/lib/nmap/nmap -sS -oN /home/kaal/Documents/final_scan.txt 192.168.110.129/24
+Nmap scan report for 192.168.110.1
+Host is up (0.0012s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+MAC Address: 00:50:56:C0:00:08 (VMware)
+
+Nmap scan report for 192.168.110.2
+Host is up (0.0013s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE
+53/tcp open  domain
+MAC Address: 00:50:56:E1:93:4E (VMware)
+
+Nmap scan report for 192.168.110.254
+Host is up (0.00033s latency).
+All 1000 scanned ports on 192.168.110.254 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: 00:50:56:F5:FC:64 (VMware)
+
+Nmap scan report for 192.168.110.129
+Host is up (0.0000020s latency).
+All 1000 scanned ports on 192.168.110.129 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+
+# Nmap done at Mon Jun 23 15:09:41 2025 -- 256 IP addresses (4 hosts up) scanned in 8.54 seconds
