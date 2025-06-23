@@ -24,7 +24,3 @@ Learn to discover open ports on devices in your local network to understand netw
 ## 🧠 Conclusion
 
 This task helped reinforce the foundational skills of port scanning, identifying active hosts, and recognizing potential security exposures in a network environment. It also builds a critical understanding of how threat actors perform reconnaissance — and how defenders can detect and mitigate risks.
-
----
-
-> ✅ Completed as part of the **Cybersecurity Internship – Elevate Labs**
